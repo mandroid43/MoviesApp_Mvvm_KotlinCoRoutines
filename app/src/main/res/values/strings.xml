@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">MoviesApp_MVVM</string>
+<!--add your own api key to make this app work-->
+    <string name="API_KEY"></string>
+    <string name="error_msg">Oops! Currently No Movies Are Available!</string>
+    <string name="IMAGE_BASE_URL">https://image.tmdb.org/t/p/w500</string>
+    <string name="no_network_connected">No Network Connected!</string>
+    <string name="total_votes_count">Total Votes : %s</string>
+    <string name="noNetworkLabel">You are offline. Check your connection and try again</string>
+
+    <!--login-->
+    <string name="email_field_hint">Enter your email</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="email_field_empty">Email can\'t be empty</string>
+    <string name="password_field_empty">Password can\'t be empty</string>
+    <string name="email_field_invalid">Not a valid email</string>
+    <string name="password_field_small_length">Password less than 6 digits</string>
+    <string name="login_button_text">Login</string>
+
+
+</resources>
